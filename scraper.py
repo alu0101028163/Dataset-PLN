@@ -1,5 +1,18 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
+import sys
+
+def print_usage():
+    usage = "The usage of the application is: \n"
+    usage += "$python3 -a --automatic fileName "
+    usage += "#it automatically scraps all the data of the categories passed in a file.\n"
+    usage += "$python3 -m --manual categorie maxpages "
+    usage += "#it automatically scraps all the \"maxpages\" pages of data of the category passed as an argument."
+    print(usage)
+
+if ((len(sys.argv) < 2)) or (sys.argv[1] not in ('-a','--automatic','-m','--manual')):
+    print_usage()
+    exit()
 
 book_names = []
 
