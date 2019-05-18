@@ -1,6 +1,7 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import sys
+import re
 
 def scrap_category(category_name, search_range):
 
@@ -13,7 +14,9 @@ def scrap_category(category_name, search_range):
         names = soup.find_all('a', attrs={"class":'bookTitle'})
 
         for name in names:
-                book_names.append(name.text)
+                book_name = name.text
+                book_name = re.sub(r'\"','',book_name)
+                book_names.append(book_name)
 
     return book_names
 
