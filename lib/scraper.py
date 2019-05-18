@@ -28,24 +28,20 @@ def category_to_file(file_name, category_name, books):
 
 def print_usage():
     usage = "The usage of the application is: \n"
-    usage += "$python3 -a --automatic fileName "
-    usage += "#it automatically scraps all the data of the categories passed in a file.\n"
-    usage += "$python3 -m --manual categorie maxpages "
-    usage += "#it automatically scraps all the \"maxpages\" pages of data of the category passed as an argument."
+    usage += "$python3 -a --automatic fileName maxpages"
+    usage += "#it automatically scraps all the data of the categories passed in a file."
     print(usage)
 
-if ((len(sys.argv) < 2)) or (sys.argv[1] not in ('-a','--automatic','-m','--manual')):
+if ((len(sys.argv) < 3)) or (sys.argv[1] not in ('-a','--automatic')):
     print_usage()
     exit()
 
 book_names = []
 
 if(sys.argv[1] in ('-a','--automatic') ):
-    if(len(sys.argv) < 3):
-        print_usage()
-        exit()
 
     file_name = sys.argv[2]
+    maxpages  = sys.argv[3]
     file_ = open(file_name,'r')
 
     categories = []
@@ -53,7 +49,7 @@ if(sys.argv[1] in ('-a','--automatic') ):
         categories.append(line.strip())
 
     for category in categories:
-        book_names = scrap_category(category, 1)
+        book_names = scrap_category(category,int(maxpages))
         category_to_file(("../outputs/" + category + ".txt"), category, book_names)
         print(book_names)
 

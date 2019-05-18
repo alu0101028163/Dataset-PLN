@@ -48,3 +48,53 @@
 "The Monuments Men: Allied Heroes, Nazi Thieves, and the Greatest Treasure Hunt in History (Hardcover)",Art
 "Camera Lucida: Reflections on Photography (Paperback)",Art
 "The Power of Art (Hardcover)",Art
+"Ways of Seeing (Paperback)",Art
+"The Story of Art (Hardcover)",Art
+"The New Drawing on the Right Side of the Brain (Paperback)",Art
+"Steal Like an Artist: 10 Things Nobody Told You About Being Creative (Paperback)",Art
+"Wall and Piece (Paperback)",Art
+"The Artist's Way (Paperback)",Art
+"Girl with a Pearl Earring (Paperback)",Art
+"The Art Book (Paperback)",Art
+"Art and Fear: Observations on the Perils (and Rewards) of Artmaking",Art
+"Seven Days in the Art World (Paperback)",Art
+"Concerning the Spiritual in Art (Paperback)",Art
+"The Goldfinch (Hardcover)",Art
+"The Letters of Vincent van Gogh (Paperback)",Art
+"History of Beauty (Hardcover)",Art
+"Understanding Comics: The Invisible Art (Paperback)",Art
+"M.C. Escher: The Graphic Work (Paperback)",Art
+"Color: A Natural History of the Palette (Paperback)",Art
+"On Photography (Paperback)",Art
+"The Diary of Frida Kahlo: An Intimate Self-Portrait (Hardcover)",Art
+"The Art Forger (Hardcover)",Art
+"Art Through the Ages  (Hardcover)",Art
+"The Shock of the New (Paperback)",Art
+"History of Art (Hardcover)",Art
+"The War of Art: Break Through the Blocks & Win Your Inner Creative Battles (Paperback)",Art
+"Just Kids (Hardcover)",Art
+"The Agony and the Ecstasy (Mass Market Paperback)",Art
+"Leonardo's Notebooks (Hardcover)",Art
+"Leonardo's Notebooks (Hardcover)",Art
+"The Lives of the Artists (Paperback)",Art
+"Vincent Van Gogh: The Complete Paintings (Hardcover)",Art
+"An Illustrated Life: Drawing Inspiration From The Private Sketchbooks Of Artists, Illustrators And Designers (Paperback)",Art
+"Michelangelo and the Pope's Ceiling (Paperback)",Art
+"Faeries (Hardcover)",Art
+"PostSecret: Extraordinary Confessions from Ordinary Lives (PostSecret)",Art
+"Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered (Paperback)",Art
+"The Judgment of Paris: The Revolutionary Decade That Gave the World Impressionism (Paperback)",Art
+"Griffin and Sabine (Griffin & Sabine #1)",Art
+"The Philosophy of Andy Warhol (From A to B and Back Again)",Art
+"The Dot (Hardcover)",Art
+"Leonardo da Vinci (Hardcover)",Art
+"Color and Light: A Guide for the Realist Painter (Paperback)",Art
+"On Ugliness (Hardcover)",Art
+"Frida: A Biography of Frida Kahlo (Paperback)",Art
+"Figure Drawing for All It's Worth (How to draw and paint)",Art
+"Brunelleschi's Dome: How a Renaissance Genius Reinvented Architecture (Paperback)",Art
+"The Art Spirit: Notes, Articles, Fragments of Letters and Talks to Students, Bearing on the Concept and Technique of Picture Making, the Study of Art (Icon Editions)",Art
+"Interaction of Color (Paperback)",Art
+"The Monuments Men: Allied Heroes, Nazi Thieves, and the Greatest Treasure Hunt in History (Hardcover)",Art
+"Camera Lucida: Reflections on Photography (Paperback)",Art
+"The Power of Art (Hardcover)",Art
