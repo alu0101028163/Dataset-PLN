@@ -51,7 +51,7 @@ if(sys.argv[1] in ('-a','--automatic') ):
 
     for category in categories:
         book_names = scrap_category(category, 1)
-        category_to_file((category+".txt"), category, book_names)
+        category_to_file(("../outputs/" + category + ".txt"), category, book_names)
         print(book_names)
 
 
