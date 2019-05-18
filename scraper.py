@@ -2,6 +2,27 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import sys
 
+def scrap_category(category_name, search_range):
+
+    book_names = []
+
+    for i in range(search_range):
+        quote_page = "https://www.goodreads.com/shelf/show/" + category_name + "?page=" + str(i + 1)
+        page = urlopen(quote_page)
+        soup = BeautifulSoup(page,'lxml')
+        names = soup.find_all('a', attrs={"class":'bookTitle'})
+
+        for name in names:
+                book_names.append(name.text)
+
+    return book_names
+
+def category_to_file(file_name, category_name, books):
+    file_ = open(file_name,'w+')
+    for book in books:
+        file_.write("\"" + book + "\"," + category_name + "\n")
+    file_.close()
+
 def print_usage():
     usage = "The usage of the application is: \n"
     usage += "$python3 -a --automatic fileName "
@@ -16,20 +37,34 @@ if ((len(sys.argv) < 2)) or (sys.argv[1] not in ('-a','--automatic','-m','--manu
 
 book_names = []
 
+if(sys.argv[1] in ('-a','--automatic') ):
+    if(len(sys.argv) < 3):
+        print_usage()
+        exit()
 
-for i in range(2):
-    quote_page = "https://www.goodreads.com/shelf/show/art?page=" + str(i + 1)
-    page = urlopen(quote_page)
-    soup = BeautifulSoup(page,'lxml')
-    names = soup.find_all('a', attrs={"class":'bookTitle'})
+    file_name = sys.argv[2]
+    file_ = open(file_name,'r')
 
-    for name in names:
-            book_names.append(name.text)
-            # print(name.text)
+    categories = []
+    for line in file_:
+        categories.append(line.strip())
 
-print(len(book_names))
+    for category in categories:
+        book_names = scrap_category(category, 1)
+        category_to_file((category+".txt"), category, book_names)
+        print(book_names)
 
 
-# names = soup.find('div',attrs={'class','p13n-sc-truncate p13n-sc-line-clamp-1'})
-# names = names.text.strip()
-# print(names)
+
+#
+# for i in range(2):
+#     quote_page = "https://www.goodreads.com/shelf/show/art?page=" + str(i + 1)
+#     page = urlopen(quote_page)
+#     soup = BeautifulSoup(page,'lxml')
+#     names = soup.find_all('a', attrs={"class":'bookTitle'})
+#
+#     for name in names:
+#             book_names.append(name.text)
+#             # print(name.text)
+#
+# print(len(book_names))
