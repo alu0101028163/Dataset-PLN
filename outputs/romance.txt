@@ -1,0 +1,100 @@
+"Twilight (Twilight, #1)",romance
+"Pride and Prejudice (Paperback)",romance
+"The Fault in Our Stars (Hardcover)",romance
+"Fifty Shades of Grey (Fifty Shades, #1)",romance
+"New Moon (Twilight, #2)",romance
+"Eclipse (Twilight, #3)",romance
+"Outlander (Outlander, #1)",romance
+"Breaking Dawn (Twilight, #4)",romance
+"The Notebook (The Notebook, #1)",romance
+"Eleanor & Park (Hardcover)",romance
+"Me Before You (Me Before You, #1)",romance
+"Fifty Shades Darker (Fifty Shades, #2)",romance
+"Jane Eyre (Paperback)",romance
+"The Time Traveler's Wife (ebook)",romance
+"Fifty Shades Freed (Fifty Shades, #3)",romance
+"The Selection (The Selection, #1)",romance
+"Beautiful Disaster (Beautiful, #1)",romance
+"Anna and the French Kiss (Anna and the French Kiss, #1)",romance
+"Romeo and Juliet (Paperback)",romance
+"A Walk to Remember (Kindle Edition)",romance
+"Fangirl (Kindle Edition)",romance
+"Wuthering Heights (Paperback)",romance
+"Sense and Sensibility (Paperback)",romance
+"Divergent (Divergent, #1)",romance
+"To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)",romance
+"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",romance
+"Bared to You (Crossfire, #1)",romance
+"The Elite (The Selection, #2)",romance
+"City of Bones (The Mortal Instruments, #1)",romance
+"Emma (Paperback)",romance
+"Dark Lover (Black Dagger Brotherhood, #1)",romance
+"The Hunger Games (The Hunger Games, #1)",romance
+"Persuasion (Paperback)",romance
+"The Kiss Quotient (The Kiss Quotient, #1)",romance
+"The One (The Selection, #3)",romance
+"The Hating Game (ebook)",romance
+"Easy (Contours of the Heart, #1)",romance
+"If I Stay (If I Stay, #1)",romance
+"The Night Circus (Hardcover)",romance
+"Dear John (Hardcover)",romance
+"Matched (Matched, #1)",romance
+"Dragonfly in Amber (Outlander, #2)",romance
+"Hopeless (Hopeless, #1)",romance
+"Perfect Chemistry (Perfect Chemistry, #1)",romance
+"Catching Fire (The Hunger Games, #2)",romance
+"Delirium (Delirium, #1)",romance
+"The Rosie Project (Don Tillman, #1)",romance
+"Shiver (The Wolves of Mercy Falls, #1)",romance
+"The Host (The Host, #1)",romance
+"Cinder (The Lunar Chronicles, #1)",romance
+"Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)",romance
+"The Princess Bride (Paperback)",romance
+"Gone with the Wind (Paperback)",romance
+"On Dublin Street (On Dublin Street, #1)",romance
+"The Last Song (Hardcover)",romance
+"Slammed (Slammed, #1)",romance
+"A Court of Mist and Fury (A Court of Thorns and Roses, #2)",romance
+"Hush, Hush (Hush, Hush, #1)",romance
+"Attachments (Hardcover)",romance
+"The Duke and I (Bridgertons, #1)",romance
+"City of Ashes (The Mortal Instruments, #2)",romance
+"Everything, Everything (Hardcover)",romance
+"Water for Elephants (Paperback)",romance
+"Mockingjay (The Hunger Games, #3)",romance
+"Simon vs. the Homo Sapiens Agenda (Creekwood, #1)",romance
+"Lola and the Boy Next Door (Anna and the French Kiss, #2)",romance
+"Reflected in You (Crossfire, #2)",romance
+"City of Glass (The Mortal Instruments, #3)",romance
+"Throne of Glass (Throne of Glass, #1)",romance
+"Ugly Love (Kindle Edition)",romance
+"The Lucky One (Hardcover)",romance
+"The Deal (Off-Campus, #1)",romance
+"Safe Haven (Kindle Edition)",romance
+"Insurgent (Divergent, #2)",romance
+"Maybe Someday (Maybe, #1)",romance
+"Lover Eternal (Black Dagger Brotherhood, #2)",romance
+"Vision in White (Bride Quartet, #1)",romance
+"Vampire Academy (Vampire Academy, #1)",romance
+"Devil in Winter (Wallflowers, #3)",romance
+"It Ends with Us (Kindle Edition)",romance
+"Bridget Jones's Diary (Bridget Jones, #1)",romance
+"Clockwork Angel (The Infernal Devices, #1)",romance
+"P.S. I Still Love You (To All the Boys I've Loved Before, #2)",romance
+"Northanger Abbey (Paperback)",romance
+"The Great Gatsby (Paperback)",romance
+"Dead Until Dark (Sookie Stackhouse, #1)",romance
+"Voyager (Outlander, #3)",romance
+"A Discovery of Witches (All Souls Trilogy, #1)",romance
+"Looking for Alaska (Paperback)",romance
+"Graceling (Graceling Realm, #1)",romance
+"Fallen (Fallen, #1)",romance
+"Where She Went (If I Stay, #2)",romance
+"Shatter Me (Shatter Me, #1)",romance
+"Tangled (Tangled, #1)",romance
+"Obsidian (Lux, #1)",romance
+"Beautiful Bastard (Beautiful Bastard, #1)",romance
+"Wait for You (Wait for You, #1)",romance
+"Beautiful Creatures (Caster Chronicles, #1)",romance
+"Bet Me (Mass Market Paperback)",romance
+"Secrets of a Summer Night (Wallflowers, #1)",romance

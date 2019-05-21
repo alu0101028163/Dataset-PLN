@@ -1,0 +1,100 @@
+"A Brief History of Time (Paperback)",science
+"A Short History of Nearly Everything (Paperback)",science
+"The Selfish Gene (Paperback)",science
+"Cosmos (Mass Market Paperback)",science
+"The Immortal Life of Henrietta Lacks (Hardcover)",science
+"The Origin of Species (Hardcover)",science
+"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory (Paperback)",science
+"Astrophysics for People in a Hurry (Hardcover)",science
+"What If?: Serious Scientific Answers to Absurd Hypothetical Questions (Hardcover)",science
+"The Demon-Haunted World: Science as a Candle in the Dark (Paperback)",science
+"Sapiens: A Brief History of Humankind (Paperback)",science
+"Stiff: The Curious Lives of Human Cadavers (Paperback)",science
+"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character (Paperback)",science
+"The Greatest Show on Earth: The Evidence for Evolution (Hardcover)",science
+"The Grand Design (Hardcover)",science
+"Guns, Germs, and Steel: The Fates of Human Societies (Paperback)",science
+"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements (Hardcover)",science
+"The God Delusion (Hardcover)",science
+"The Emperor of All Maladies: A Biography of Cancer (Hardcover)",science
+"The Man Who Mistook His Wife for a Hat and Other Clinical Tales (Paperback)",science
+"The Fabric of the Cosmos: Space, Time, and the Texture of Reality (Paperback)",science
+"Packing for Mars: The Curious Science of Life in the Void (Paperback)",science
+"The Sixth Extinction: An Unnatural History (Hardcover)",science
+"The Gene: An Intimate History (Hardcover)",science
+"The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design (Paperback)",science
+"Gödel, Escher, Bach: An Eternal Golden Braid (Paperback)",science
+"Death by Black Hole: And Other Cosmic Quandaries (Paperback)",science
+"Bonk: The Curious Coupling of Science and Sex (Paperback)",science
+"Physics of the Impossible (Hardcover)",science
+"The Universe in a Nutshell (Hardcover)",science
+"Pale Blue Dot: A Vision of the Human Future in Space (Paperback)",science
+"Bad Science (Paperback)",science
+"Thinking, Fast and Slow (Hardcover)",science
+"The Structure of Scientific Revolutions (Paperback)",science
+"Seven Brief Lessons on Physics (Hardcover)",science
+"Chaos: Making a New Science (Paperback)",science
+"Genome: the Autobiography of a Species in 23 Chapters (Paperback)",science
+"A Universe from Nothing: Why There Is Something Rather Than Nothing (Hardcover)",science
+"The Ancestor's Tale: A Pilgrimage to the Dawn of Evolution (Paperback)",science
+"The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus (Paperback)",science
+"Gulp: Adventures on the Alimentary Canal (Paperback)",science
+"Your Inner Fish: A Journey Into the 3.5-Billion-Year History of the Human Body (Hardcover)",science
+"Homo Deus: A Brief History of Tomorrow (Kindle Edition)",science
+"Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time (Hardcover)",science
+"I Contain Multitudes: The Microbes Within Us and a Grander View of Life (Hardcover)",science
+"Relativity: The Special and the General Theory (Paperback)",science
+"The Magic of Reality: How We Know What's Really True (Hardcover)",science
+"The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos (Hardcover)",science
+"Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher (Paperback)",science
+"A Briefer History of Time (Hardcover)",science
+"Lab Girl (Hardcover)",science
+"The World Without Us (Hardcover)",science
+"Spook: Science Tackles the Afterlife (Paperback)",science
+"Dragons of Eden: Speculations on the Evolution of Human Intelligence (Paperback)",science
+"Parallel Worlds: A Journey through Creation, Higher Dimensions, and the Future of the Cosmos (Paperback)",science
+"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Hardcover)",science
+"Silent Spring (Paperback)",science
+"Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the Tenth Dimension (Paperback)",science
+"Why Evolution Is True (Hardcover)",science
+"Physics of the Future: How Science Will Shape Human Destiny and Our Daily Lives by the Year 2100 (Hardcover)",science
+"The Botany of Desire: A Plant's-Eye View of the World (Kindle Edition)",science
+"The Third Chimpanzee: The Evolution and Future of the Human Animal (Paperback)",science
+"The Martian (Hardcover)",science
+"The Double Helix (Paperback)",science
+"Musicophilia: Tales of Music and the Brain (Hardcover)",science
+"The Ghost Map: The Story of London's Most Terrifying Epidemic - and How It Changed Science, Cities, and the Modern World (Hardcover)",science
+"Blink: The Power of Thinking Without Thinking (Paperback)",science
+"The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind (Hardcover)",science
+"The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography (Paperback)",science
+"Origins: Fourteen Billion Years of Cosmic Evolution (Paperback)",science
+"QED: The Strange Theory of Light and Matter (Paperback)",science
+"The Poisoner's Handbook: Murder and the Birth of Forensic Medicine in Jazz Age New York (Hardcover)",science
+"The Omnivore's Dilemma: A Natural History of Four Meals (Hardcover)",science
+"Collapse: How Societies Choose to Fail or Succeed (Paperback)",science
+"The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science (Hardcover)",science
+"Billions & Billions: Thoughts on Life and Death at the Brink of the Millennium (Paperback)",science
+"Moonwalking with Einstein: The Art and Science of Remembering Everything (Hardcover)",science
+"Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World (Hardcover)",science
+"The Hidden Life of Trees: What They Feel, How They Communicate – Discoveries from a Secret World (Hardcover)",science
+"Being Mortal: Medicine and What Matters in the End (Hardcover)",science
+"The Language Instinct: How the Mind Creates Language (Paperback)",science
+"Einstein: His Life and Universe (Hardcover)",science
+"The Blank Slate: The Modern Denial of Human Nature (Paperback)",science
+"In Search of Schrödinger's Cat: Quantum Physics and Reality (Paperback)",science
+"The Rise and Fall of the Dinosaurs: A New History of a Lost World (ebook)",science
+"Hidden Figures (Paperback)",science
+"Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem (Paperback)",science
+"Undeniable: Evolution and the Science of Creation (Hardcover)",science
+"How the Mind Works (Paperback)",science
+"Grunt: The Curious Science of Humans at War (Paperback)",science
+"Are We Smart Enough to Know How Smart Animals Are? (Paperback)",science
+"The Big Picture: On the Origins of Life, Meaning, and the Universe Itself (Hardcover)",science
+"What Do You Care What Other People Think?: Further Adventures of a Curious Character (Paperback)",science
+"The Information: A History, a Theory, a Flood (Hardcover)",science
+"Why We Sleep: Unlocking the Power of Sleep and Dreams (Hardcover)",science
+"The Soul of an Octopus: A Surprising Exploration Into the Wonder of Consciousness (Hardcover)",science
+"Behave: The Biology of Humans at Our Best and Worst (Hardcover)",science
+"The Signal and the Noise: Why So Many Predictions Fail - But Some Don't (Hardcover)",science
+"Brief Answers to the Big Questions (Hardcover)",science
+"This Is Your Brain on Music: The Science of a Human Obsession (Hardcover)",science
