@@ -3,7 +3,7 @@ import os
 
 
 
-path = "../outputs"
+path = "../current_outputs"
 arff_file = open("./goodreads_nlp.arff","w+")
 categories = open("categories.txt","r")
 

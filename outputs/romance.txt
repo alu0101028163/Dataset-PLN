@@ -98,3 +98,1152 @@
 "Beautiful Creatures (Caster Chronicles, #1)",romance
 "Bet Me (Mass Market Paperback)",romance
 "Secrets of a Summer Night (Wallflowers, #1)",romance
+"Confess (Paperback)",romance
+"Can You Keep a Secret? (Paperback)",romance
+"The Wrath and the Dawn (The Wrath and the Dawn, #1)",romance
+"Walking Disaster (Beautiful, #2)",romance
+"Scarlet (The Lunar Chronicles, #2)",romance
+"Mine Till Midnight (The Hathaways, #1)",romance
+"City of Fallen Angels (The Mortal Instruments, #4)",romance
+"Playing for Keeps (Neighbor from Hell, #1)",romance
+"P.S. I Love You (Paperback)",romance
+"One Day (Hardcover)",romance
+"Memoirs of a Geisha (Mass Market Paperback)",romance
+"Entwined with You (Crossfire, #3)",romance
+"The Viscount Who Loved Me (Bridgertons, #2)",romance
+"Mansfield Park (Paperback)",romance
+"Fallen Too Far (Rosemary Beach, #1; Too Far, #1)",romance
+"The Edge of Never (The Edge of Never, #1)",romance
+"Pushing the Limits (Pushing the Limits, #1)",romance
+"Clockwork Prince (The Infernal Devices, #2)",romance
+"Lover Revealed (Black Dagger Brotherhood, #4)",romance
+"Gabriel's Inferno (Gabriel's Inferno, #1)",romance
+"Clockwork Princess (The Infernal Devices, #3)",romance
+"Drums of Autumn (Outlander, #4)",romance
+"Isla and the Happily Ever After (Anna and the French Kiss, #3)",romance
+"Allegiant (Divergent, #3)",romance
+"The Statistical Probability of Love at First Sight (Hardcover)",romance
+"Cress (The Lunar Chronicles, #3)",romance
+"Message in a Bottle (Paperback)",romance
+"Soulless (Parasol Protectorate, #1)",romance
+"A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",romance
+"Crown of Midnight (Throne of Glass, #2)",romance
+"Romancing Mister Bridgerton (Bridgertons, #4)",romance
+"Lover Unbound (Black Dagger Brotherhood, #5)",romance
+"Nine Rules to Break When Romancing a Rake (Love By Numbers, #1)",romance
+"City of Lost Souls (The Mortal Instruments, #5)",romance
+"It Happened One Autumn (Wallflowers, #2)",romance
+"My Life Next Door (Hardcover)",romance
+"The Sun Is Also a Star (Hardcover)",romance
+"Halfway to the Grave (Night Huntress, #1)",romance
+"The Heir (The Selection, #4)",romance
+"Romancing the Duke (Castles Ever After, #1)",romance
+"The Marriage Bargain (Marriage to a Billionaire, #1)",romance
+"Thoughtless (Thoughtless, #1)",romance
+"Bed of Roses (Bride Quartet, #2)",romance
+"The Truth About Forever (Paperback)",romance
+"Paper Towns (Paperback)",romance
+"An Offer From a Gentleman (Bridgertons, #3)",romance
+"I've Got Your Number (Hardcover)",romance
+"Frostbite (Vampire Academy, #2)",romance
+"The Duchess War (Brothers Sinister, #1)",romance
+"The Winner's Curse (The Winner's Trilogy, #1)",romance
+"The Wedding Date (Kindle Edition)",romance
+"Every Day (Every Day, #1)",romance
+"Something About You (FBI/US Attorney, #1)",romance
+"Rebecca (ebook)",romance
+"A Rogue by Any Other Name (The Rules of Scoundrels, #1)",romance
+"Beyond the Highland Mist (Highlander, #1)",romance
+"Savor the Moment (Bride Quartet, #3)",romance
+"Shadow and Bone (The Shadow and Bone Trilogy, #1)",romance
+"It Had to Be You (Chicago Stars, #1)",romance
+"Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe, #1)",romance
+"Lover Enshrined (Black Dagger Brotherhood, #6)",romance
+"The Next Always (Inn BoonsBoro, #1)",romance
+"Landline (Hardcover)",romance
+"Carry On (Simon Snow, #1)",romance
+"Shadow Kiss (Vampire Academy, #3)",romance
+"Point of Retreat (Slammed, #2)",romance
+"Archer's Voice (ebook)",romance
+"Legend (Legend, #1)",romance
+"Just Listen (Hardcover)",romance
+"Winter (The Lunar Chronicles, #4)",romance
+"Happy Ever After (Bride Quartet, #4)",romance
+"Cruel Beauty (Hardcover)",romance
+"Red Queen (Red Queen, #1)",romance
+"Darkfever (Fever, #1)",romance
+"Slave to Sensation (Psy-Changeling #1)",romance
+"Lick (Stage Dive, #1)",romance
+"The DUFF: Designated Ugly Fat Friend (Hardcover)",romance
+"Scandal in Spring (Wallflowers, #4)",romance
+"Something Borrowed (Darcy & Rachel, #1)",romance
+"All the Bright Places (Hardcover)",romance
+"Beastly (Beastly, #1; Kendra Chronicles, #1)",romance
+"The Wedding (The Notebook, #2)",romance
+"After You (Me Before You, #2)",romance
+"Blood Promise (Vampire Academy, #4)",romance
+"When Dimple Met Rishi (Hardcover)",romance
+"The Summer I Turned Pretty (Summer, #1)",romance
+"An Abundance of Katherines (Hardcover)",romance
+"The Bride (Lairds' Fiancées, #1)",romance
+"Along for the Ride (Hardcover)",romance
+"Austenland (Austenland, #1)",romance
+"To Sir Phillip, With Love (Bridgertons, #5)",romance
+"Bully (Fall Away, #1)",romance
+"When He Was Wicked (Bridgertons, #6)",romance
+"November 9 (Paperback)",romance
+"Dance Upon the Air (Three Sisters Island, #1)",romance
+"Paper Princess (The Royals, #1)",romance
+"The Wall of Winnipeg and Me (Kindle Edition)",romance
+"Lover Avenged (Black Dagger Brotherhood, #7)",romance
+"Poison Study (Study, #1)",romance
+"Nights in Rodanthe (Paperback)",romance
+"Fantasy Lover (Hunter Legends Series #1)",romance
+"Onyx (Lux, #2)",romance
+"Born in Fire (Born In Trilogy, #1)",romance
+"Neanderthal Seeks Human (Knitting in the City, #1)",romance
+"Naked in Death (In Death #1)",romance
+"The Fiery Cross (Outlander, #5)",romance
+"Living Dead in Dallas (Sookie Stackhouse, #2)",romance
+"Jewels of the Sun (Gallaghers of Ardmore, #1)",romance
+"The Coincidence of Callie & Kayden (The Coincidence, #1)",romance
+"Spirit Bound (Vampire Academy, #5)",romance
+"On the Island (On the Island, #1)",romance
+"The Choice (Kindle Edition)",romance
+"The Mistake (Off-Campus, #2)",romance
+"The Unbecoming of Mara Dyer (Mara Dyer, #1)",romance
+"Angels' Blood (Guild Hunter, #1)",romance
+"Just Like Heaven (Smythe-Smith Quartet, #1)",romance
+"Crazy Rich Asians (Crazy Rich Asians, #1)",romance
+"Anna Karenina (Paperback)",romance
+"Lover Mine (Black Dagger Brotherhood, #8)",romance
+"Seduce Me at Sunrise (The Hathaways, #2)",romance
+"This Lullaby (Paperback)",romance
+"Linger (The Wolves of Mercy Falls, #2)",romance
+"Last Sacrifice (Vampire Academy, #6)",romance
+"Always and Forever, Lara Jean (To All the Boys I've Loved Before, #3)",romance
+"The Rescue (Paperback)",romance
+"The Gentleman's Guide to Vice and Virtue (Montague Siblings, #1)",romance
+"The Iron King (The Iron Fey, #1)",romance
+"Just One Day (Just One Day, #1)",romance
+"The Duchess Deal (Girl Meets Duke, #1)",romance
+"The Guardian (Paperback)",romance
+"City of Heavenly Fire (The Mortal Instruments, #6)",romance
+"Never Too Far (Rosemary Beach, #2; Too Far, #2)",romance
+"The Madness of Lord Ian Mackenzie (Mackenzies & McBrides, #1)",romance
+"The Best of Me (Hardcover)",romance
+"Tempt Me at Twilight (The Hathaways, #3)",romance
+"Blue Dahlia (In the Garden, #1)",romance
+"Crossed (Matched, #2)",romance
+"It's in His Kiss (Bridgertons, #7)",romance
+"Love in the Afternoon (The Hathaways, #5)",romance
+"Lord of Scoundrels (Scoundrels, #3)",romance
+"Confessions of a Shopaholic (Shopaholic, #1)",romance
+"Sea Swept (Chesapeake Bay Saga, #1)",romance
+"Crescendo (Hush, Hush, #2)",romance
+"Love, Rosie (Paperback)",romance
+"Just the Sexiest Man Alive (Mass Market Paperback)",romance
+"When a Scot Ties the Knot (Castles Ever After, #3)",romance
+"The Distance Between Us (Paperback)",romance
+"The Darkest Night (Lords of the Underworld #1)",romance
+"The Raven Boys (The Raven Cycle, #1)",romance
+"A Bend in the Road (Paperback)",romance
+"Under the Never Sky (Under the Never Sky, #1)",romance
+"Rule (Marked Men, #1)",romance
+"Dead to the World (Sookie Stackhouse, #4)",romance
+"Atonement (Paperback)",romance
+"These Broken Stars (Starbound, #1)",romance
+"The Secret Diaries of Miss Miranda Cheever (Bevelstoke, #1)",romance
+"Kiss an Angel (Paperback)",romance
+"Evermore (The Immortals, #1)",romance
+"Club Dead (Sookie Stackhouse, #3)",romance
+"Night Pleasures (Dark-Hunter, #1)",romance
+"Mystery Man (Dream Man, #1)",romance
+"Rules of Attraction (Perfect Chemistry, #2)",romance
+"Stardust (Paperback)",romance
+"One Good Earl Deserves a Lover (The Rules of Scoundrels, #2)",romance
+"When Beauty Tamed the Beast (Fairy Tales, #2)",romance
+"A Hunger Like No Other (Immortals After Dark, #2)",romance
+"Grave Mercy (His Fair Assassin, #1)",romance
+"Ten Tiny Breaths (Ten Tiny Breaths, #1)",romance
+"The Song of Achilles (Hardcover)",romance
+"Amy & Roger's Epic Detour (Hardcover)",romance
+"A Kingdom of Dreams (Westmoreland, #1)",romance
+"Nobody's Baby But Mine (Chicago Stars, #3)",romance
+"I'll Give You the Sun (Hardcover)",romance
+"Sugar Daddy (Travises, #1)",romance
+"Lover Unleashed (Black Dagger Brotherhood, #9)",romance
+"The Bronze Horseman (The Bronze Horseman, #1)",romance
+"Unravel Me (Shatter Me, #2)",romance
+"The Score (Off-Campus, #3)",romance
+"Real (Real, #1)",romance
+"A Week to Be Wicked (Spindle Cove, #2)",romance
+"A Breath of Snow and Ashes (Outlander, #6)",romance
+"Queen of Shadows (Throne of Glass, #4)",romance
+"Days of Blood & Starlight (Daughter of Smoke & Bone, #2)",romance
+"The Gamble (Colorado Mountain, #1)",romance
+"Dreaming of You (The Gamblers of Craven's, #2)",romance
+"The Undomestic Goddess (Paperback)",romance
+"Little Women (Paperback)",romance
+"The Last Boyfriend (Inn BoonsBoro, #2)",romance
+"Opal (Lux, #3)",romance
+"Match Me If You Can (Chicago Stars, #6)",romance
+"Key of Light (Key Trilogy, #1)",romance
+"On the Way to the Wedding (Bridgertons, #8)",romance
+"The Secret (Highlands' Lairds #1)",romance
+"The Governess Affair (Brothers Sinister, #0.5)",romance
+"An Ember in the Ashes (An Ember in the Ashes, #1)",romance
+"Angelfall (Penryn & the End of Days, #1)",romance
+"Like Water for Chocolate (Paperback)",romance
+"The Longest Ride (Hardcover)",romance
+"Tears of the Moon (Gallaghers of Ardmore / Irish Trilogy, #2)",romance
+"One Foot in the Grave (Night Huntress, #2)",romance
+"Heir of Fire (Throne of Glass, #3)",romance
+"Ella Enchanted (Ella Enchanted #1)",romance
+"A Knight in Shining Armor (Montgomery/Taggert Family, # 15)",romance
+"Midnight Sun (Twilight, #1.5)",romance
+"Josh and Hazel's Guide to Not Dating (Paperback)",romance
+"Heaven and Earth (Three Sisters Island, #2)",romance
+"The Grand Sophy (Paperback)",romance
+"Truth or Beard (Winston Brothers, #1)",romance
+"Perfection (Neighbor from Hell, #2)",romance
+"The Kiss of Deception (The Remnant Chronicles, #1)",romance
+"Breathe (Sea Breeze, #1)",romance
+"Beautiful Stranger (Beautiful Bastard, #2)",romance
+"Smooth Talking Stranger (Travises, #3)",romance
+"Empire of Storms (Throne of Glass, #5)",romance
+"Dash & Lily's Book of Dares (Dash & Lily, #1)",romance
+"North and South (Paperback)",romance
+"Born in Ice (Born In Trilogy, #2)",romance
+"Simply Irresistible (Lucky Harbor, #1)",romance
+"The Perfect Hope (Inn Boonsboro, #3)",romance
+"Natural Born Charmer (Chicago Stars, #7)",romance
+"Cold-Hearted Rake (The Ravenels, #1)",romance
+"Grey (Fifty Shades as Told by Christian, #1)",romance
+"Let it Snow (Kindle Edition)",romance
+"Practice Makes Perfect (Mass Market Paperback)",romance
+"Unearthly (Unearthly, #1)",romance
+"Because of Miss Bridgerton (Rokesbys, #1)",romance
+"Ignite Me (Shatter Me, #3)",romance
+"Across the Universe (Across the Universe, #1)",romance
+"Face the Fire (Three Sisters Island, #3)",romance
+"Black Rose (In the Garden, #2)",romance
+"Silence (Hush, Hush, #3)",romance
+"Torment (Fallen, #2)",romance
+"The Perks of Being a Wallflower (Paperback)",romance
+"The Sky Is Everywhere (Hardcover)",romance
+"Dead as a Doornail (Sookie Stackhouse, #5)",romance
+"Making Faces (ebook)",romance
+"We Were Liars (Kindle Edition)",romance
+"Lover Reborn (Black Dagger Brotherhood, #10)",romance
+"Rock Chick (Rock Chick, #1)",romance
+"Dark Witch (The Cousins O'Dwyer Trilogy, #1)",romance
+"Gabriel's Rapture (Gabriel's Inferno, #2)",romance
+"Captive Prince (Captive Prince, #1)",romance
+"Dragon Bound (Elder Races, #1)",romance
+"Lock and Key (Hardcover)",romance
+"Remember Me? (Hardcover)",romance
+"Radiance (Wraith Kings, #1)",romance
+"Rising Tides (Chesapeake Bay Saga, #2)",romance
+"Royally Screwed (Royally, #1)",romance
+"Red Lily (In the Garden, #3)",romance
+"99 Percent Mine (ebook)",romance
+"Call Me By Your Name (Call Me By Your Name, #1)",romance
+"The Witness (Paperback)",romance
+"Inner Harbor (Chesapeake Bay Saga, #3)",romance
+"A Kiss at Midnight (Fairy Tales, #1)",romance
+"Morrigan's Cross (Circle Trilogy, #1)",romance
+"Heart of the Sea (Gallaghers of Ardmore / Irish Trilogy, #3)",romance
+"Once Burned (Night Prince, #1)",romance
+"Roomies (Paperback)",romance
+"True Believer (Jeremy Marsh & Lexie Darnell, #1)",romance
+"Captivated by You (Crossfire, #4)",romance
+"Born in Shame (Born In Trilogy, #3)",romance
+"Key of Knowledge (Key Trilogy, #2)",romance
+"Definitely Dead (Sookie Stackhouse, #6)",romance
+"What Happens in London (Bevelstoke, #2)",romance
+"Fire (Graceling Realm, #2)",romance
+"Love Unscripted (Love, #1)",romance
+"Kiss of the Highlander (Highlander, #4)",romance
+"Forever (The Wolves of Mercy Falls, #3)",romance
+"Again the Magic (Wallflowers, #0.5)",romance
+"Welcome to Temptation (Dempseys, #1)",romance
+"The Thorn Birds (Mass Market Paperback)",romance
+"Shadowfever (Fever, #5)",romance
+"Beautiful Oblivion (The Maddox Brothers, #1)",romance
+"Losing Hope (Hopeless, #2)",romance
+"Before I Fall (Paperback)",romance
+"Wicked Lovely (Wicked Lovely, #1)",romance
+"Shadow of Night (All Souls Trilogy, #2)",romance
+"Devil in Spring (The Ravenels, #3)",romance
+"First Grave on the Right (Charley Davidson, #1)",romance
+"Caraval (Caraval, #1)",romance
+"The Fill-In Boyfriend (Paperback)",romance
+"Heaven, Texas (Chicago Stars, #2)",romance
+"The Upside of Unrequited (Hardcover)",romance
+"Kulti (Kindle Edition)",romance
+"Effortless (Thoughtless, #2)",romance
+"The Heiress Effect (Brothers Sinister, #2)",romance
+"Cry Wolf (Alpha & Omega, #1)",romance
+"Play (Stage Dive, #2)",romance
+"The Rose & the Dagger (The Wrath and the Dawn, #2)",romance
+"Backstage Pass (Sinners on Tour, #1)",romance
+"Forbidden (Paperback)",romance
+"Key of Valor (Key Trilogy, #3)",romance
+"A Princess in Theory (Reluctant Royals, #1)",romance
+"An Echo in the Bone (Outlander, #7)",romance
+"Dreams of Gods & Monsters (Daughter of Smoke & Bone, #3)",romance
+"Uprooted (Hardcover)",romance
+"Marked (House of Night, #1)",romance
+"Say Yes to the Marquess (Castles Ever After, #2)",romance
+"Seduction and Snacks (Chocolate Lovers, #1)",romance
+"The Iron Duke (Iron Seas, #1)",romance
+"A Night Like This (Smythe-Smith Quartet, #2)",romance
+"Chesapeake Blue (Chesapeake Bay Saga, #4)",romance
+"All Together Dead (Sookie Stackhouse, #7)",romance
+"Rush (Breathless, #1)",romance
+"Marrying Winterborne (The Ravenels, #2)",romance
+"The Vincent Boys (The Vincent Boys, #1)",romance
+"This Heart of Mine (Chicago Stars, #5)",romance
+"Down London Road (On Dublin Street, #2)",romance
+"Blood Brothers (Sign of Seven, #1)",romance
+"Then Came You (The Gamblers of Craven's, #1)",romance
+"Any Duchess Will Do (Spindle Cove, #4)",romance
+"The Guernsey Literary and Potato Peel Pie Society (Paperback)",romance
+"The Secret of Ella and Micha (The Secret, #1)",romance
+"Heartless (Hardcover)",romance
+"The Raven Prince (Princes Trilogy, #1)",romance
+"Montana Sky (Paperback)",romance
+"Requiem (Delirium, #3)",romance
+"Never Never (Never Never, #1)",romance
+"One Plus One (Paperback)",romance
+"P.S. I Like You (Hardcover)",romance
+"Lover at Last (Black Dagger Brotherhood, #11)",romance
+"This Is What Happy Looks Like (This is What Happy Looks Like, #1)",romance
+"Ten Things I Love About You (Bevelstoke, #3)",romance
+"Love in the Time of Cholera (Paperback)",romance
+"Siege and Storm (The Shadow and Bone Trilogy, #2)",romance
+"The Princess Diaries (The Princess Diaries, #1)",romance
+"Beautiful Player (Beautiful Bastard, #3)",romance
+"This Girl (Slammed, #3)",romance
+"Edenbrooke (Edenbrooke, #1)",romance
+"Dead and Gone (Sookie Stackhouse, #9)",romance
+"Ten Ways to Be Adored When Landing a Lord (Love By Numbers, #2)",romance
+"The Dark Highlander (Highlander, #5)",romance
+"Rubinrot (Edelstein-Trilogie, #1)",romance
+"Bloodfever (Fever, #2)",romance
+"Norwegian Wood (Paperback)",romance
+"Will Grayson, Will Grayson (Hardcover)",romance
+"Flat-Out Love (Flat-Out Love, #1)",romance
+"Geekerella (Once Upon a Con, #1)",romance
+"Origin (Lux, #4)",romance
+"Beauty: A Retelling of the Story of Beauty and the Beast (Paperback)",romance
+"From Dead to Worse (Sookie Stackhouse, #8)",romance
+"To Tame a Highland Warrior (Highlander, #2)",romance
+"Whitney, My Love (Westmoreland, #2)",romance
+"Sweet Filthy Boy (Wild Seasons, #1)",romance
+"Dare You To (Pushing the Limits, #2)",romance
+"The Hook Up (Game On, #1)",romance
+"In Bed with a Highlander (McCabe Trilogy, #1)",romance
+"Suddenly You (Mass Market Paperback)",romance
+"At Grave's End (Night Huntress, #3)",romance
+"Reached (Matched, #3)",romance
+"Broken Prince (The Royals, #2)",romance
+"Motorcycle Man (Dream Man, #4)",romance
+"A Court of Frost and Starlight (A Court of Thorns and Roses, #3.1)",romance
+"The Search (Hardcover)",romance
+"Finding Cinderella (Hopeless, #2.5)",romance
+"Moon Called (Mercy Thompson, #1)",romance
+"At First Sight (Jeremy Marsh & Lexie Darnell, #2)",romance
+"Chain Reaction (Perfect Chemistry, #3)",romance
+"The Rogue Not Taken (Scandal & Scoundrel, #1)",romance
+"The Warlord Wants Forever (Immortals After Dark, #1)",romance
+"Wicked Intentions (Maiden Lane, #1)",romance
+"Visions of Heat (Psy-Changeling #2)",romance
+"Prodigy (Legend, #2)",romance
+"Dream a Little Dream (Chicago Stars, #4)",romance
+"In Flight (Up in the Air, #1)",romance
+"Angels Fall (Hardcover)",romance
+"Northern Lights (Mass Market Paperback)",romance
+"Sweet Dreams (Colorado Mountain, #2)",romance
+"A Wallflower Christmas (Wallflowers, #4.5)",romance
+"Night Embrace (Dark-Hunter, #2)",romance
+"Pleasure Unbound (Demonica, #1)",romance
+"Lead (Stage Dive, #3)",romance
+"Come Away with Me (With Me in Seattle, #1)",romance
+"Redeeming Love (Paperback)",romance
+"Nick & Norah's Infinite Playlist (Hardcover)",romance
+"Dreamfever (Fever, #4)",romance
+"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",romance
+"Eleven Scandals to Start to Win a Duke's Heart (Love By Numbers, #3)",romance
+"The Phantom of the Opera (Paperback)",romance
+"Stuck-Up Suit (ebook)",romance
+"The Highlander's Touch (Highlander, #3)",romance
+"This Man (This Man, #1)",romance
+"The Wedding (Lairds' Fiancées, #2)",romance
+"Dance with the Devil (Dark-Hunter #3)",romance
+"The Immortal Highlander (Highlander, #6)",romance
+"Kiss of Midnight (Midnight Breed,  #1)",romance
+"The Countess Conspiracy (Brothers Sinister, #3)",romance
+"No Good Duke Goes Unpunished (The Rules of Scoundrels, #3)",romance
+"It's Not Summer Without You (Summer, #2)",romance
+"Paradise (Second Opportunities, #1)",romance
+"Captive Prince: Volume Two (Captive Prince, #2)",romance
+"About That Night (FBI/US Attorney, #3)",romance
+"The Lost Duke of Wyndham (Two Dukes of Wyndham, #1)",romance
+"Ransom (Highlands' Lairds, #2)",romance
+"Never Judge a Lady by Her Cover (The Rules of Scoundrels, #4)",romance
+"Crash (Crash, #1)",romance
+"The Sum of All Kisses (Smythe-Smith Quartet, #3)",romance
+"On the Edge (The Edge, #1)",romance
+"Carolina Moon (Mass Market Paperback)",romance
+"Frigid (Frigid, #1)",romance
+"Before Jamaica Lane (On Dublin Street, #3)",romance
+"Twisted Perfection (Rosemary Beach, #5; Perfection, #1)",romance
+"Dead in the Family (Sookie Stackhouse, #10)",romance
+"Lady Midnight (The Dark Artifices, #1)",romance
+"The Winner's Crime (The Winner's Trilogy, #2)",romance
+"The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",romance
+"A Promise of Fire (Kingmaker Chronicles, #1)",romance
+"Reason to Breathe (Breathing, #1)",romance
+"Law Man (Dream Man, #3)",romance
+"Flipped (Paperback)",romance
+"The Bride Test (The Kiss Quotient, #2)",romance
+"Hearts in Darkness (Hearts in Darkness, #1)",romance
+"One Day in December (Paperback)",romance
+"Be with Me (Wait for You, #2)",romance
+"Finale (Hush, Hush, #4)",romance
+"Kings Rising (Captive Prince, #3)",romance
+"No Rest for the Wicked (Immortals After Dark, #3)",romance
+"Dance of the Gods (Circle Trilogy, #2)",romance
+"The Perfect Play (Play by Play, #1)",romance
+"Virgin River (Virgin River, #1)",romance
+"Stepbrother Dearest (Paperback)",romance
+"Dark Prince (Dark, #1)",romance
+"Knight (Unfinished Hero, #1)",romance
+"Do You Want to Start a Scandal (Spindle Cove, #5; Castles Ever After, #4)",romance
+"Never Seduce a Scot (The Montgomerys and Armstrongs, #1)",romance
+"Passion (Fallen, #3)",romance
+"Lover Awakened (Black Dagger Brotherhood, #3)",romance
+"Reaper's Property (Reapers MC, #1)",romance
+"Someone to Watch Over Me (Bow Street Runners, #1)",romance
+"A Lady by Midnight (Spindle Cove, #3)",romance
+"Caressed by Ice (Psy-Changeling #3)",romance
+"What If It's Us (Hardcover)",romance
+"Champion (Legend, #3)",romance
+"Devil's Bride (Cynster, #1)",romance
+"The Winter Sea (Slains, #1)",romance
+"Bitten (Women of the Otherworld, #1)",romance
+"We'll Always Have Summer (Summer, #3)",romance
+"Christmas Eve at Friday Harbor (Friday Harbor, #1)",romance
+"Bossman (Kindle Edition)",romance
+"By Your Side (Paperback)",romance
+"Archangel's Kiss (Guild Hunter, #2)",romance
+"The Proposal (Paperback)",romance
+"Ruin and Rising (The Shadow and Bone Trilogy, #3)",romance
+"Since You've Been Gone (Hardcover)",romance
+"Him (Him #1)",romance
+"The Best Man (Blue Heron, #1)",romance
+"Destined for an Early Grave (Night Huntress, #4)",romance
+"Eligible (The Austen Project, #4)",romance
+"Glory in Death (In Death, #2)",romance
+"The Mighty Storm (The Storm, #1)",romance
+"The Boy Who Sneaks in My Bedroom Window (The Boy Who Sneaks in My Bedroom Window, #1)",romance
+"The Royal We (Hardcover)",romance
+"Burn for Me (Hidden Legacy, #1)",romance
+"Written in My Own Heart's Blood (Outlander, #8)",romance
+"Sweet Evil (Sweet, #1)",romance
+"The Luxe (Luxe, #1)",romance
+"The Iron Daughter (The Iron Fey, #2)",romance
+"Valley of Silence (Circle Trilogy, #3)",romance
+"A Midsummer Night's Dream (Paperback)",romance
+"First Drop of Crimson (Night Huntress World, #1)",romance
+"Midnight Bayou (Mass Market Paperback)",romance
+"Garden Spells (Waverley Family, #1)",romance
+"Slightly Married (Bedwyn Saga, #1)",romance
+"Anyone But You (Mass Market Paperback)",romance
+"Cotillion (Paperback)",romance
+"Frederica (Paperback)",romance
+"Own the Wind (Chaos, #1)",romance
+"The Hollow (Sign of Seven, #2)",romance
+"Changeless (Parasol Protectorate, #2)",romance
+"Wild Man (Dream Man, #2)",romance
+"Acheron (Dark-Hunter #14)",romance
+"The Darkest Kiss (Lords of the Underworld #2)",romance
+"Howl's Moving Castle (Howl's Moving Castle, #1)",romance
+"Faking It (Losing It, #2)",romance
+"The Bridges of Madison County (Mass Market Paperback)",romance
+"The 5th Wave (The 5th Wave, #1)",romance
+"Night Play (Dark-Hunter #5, Were-Hunter #1)",romance
+"Tempting the Best Man (Gamble Brothers, #1)",romance
+"Mr. Perfect (Mass Market Paperback)",romance
+"Catching Jordan (Paperback)",romance
+"A Kiss For Midwinter (Brothers Sinister, #1.5)",romance
+"Strange the Dreamer (Strange the Dreamer, #1)",romance
+"The Air He Breathes (Elements, #1)",romance
+"The Winner's Kiss (The Winner's Trilogy, #3)",romance
+"Love Story (Love Story, #1)",romance
+"From Lukov with Love (Paperback)",romance
+"Daring to Dream (Dream Trilogy, #1)",romance
+"Venetia (Paperback)",romance
+"The Opportunist (Love Me with Lies, #1)",romance
+"One Week Girlfriend (One Week Girlfriend, #1)",romance
+"Once and Always (Sequels, #1)",romance
+"The Lover's Dictionary (Hardcover)",romance
+"Wicked Deeds on a Winter's Night (Immortals After Dark, #4)",romance
+"Ain't She Sweet? (Paperback)",romance
+"Beauty from Pain (Beauty, #1)",romance
+"Spell of the Highlander (Highlander, #7)",romance
+"Under Locke (Kindle Edition)",romance
+"Opposition (Lux, #5)",romance
+"Firelight (Darkest London, #1)",romance
+"Deep (Stage Dive, #4)",romance
+"Leaving Paradise (Leaving Paradise, #1)",romance
+"Saint Anything (Hardcover)",romance
+"Splendid (The Splendid Trilogy, #1)",romance
+"A Thousand Pieces of You (Firebird, #1)",romance
+"All Your Perfects (Paperback)",romance
+"The Governess Game (Girl Meets Duke, #2)",romance
+"Naked (The Blackstone Affair, #1)",romance
+"The Proposition (The Proposition, #1)",romance
+"Anna Dressed in Blood (Anna, #1)",romance
+"The Indigo Spell (Bloodlines, #3)",romance
+"The Pagan Stone (Sign of Seven, #3)",romance
+"Honor's Splendour (Mass Market Paperback)",romance
+"Agnes and the Hitman (Hardcover)",romance
+"Rusty Nailed (Cocktail, #2)",romance
+"Release Me (Stark Trilogy, #1)",romance
+"My Lady Jane (The Lady Janies, #1)",romance
+"Magic Bites (Kate Daniels, #1)",romance
+"The Prize (Mass Market Paperback)",romance
+"Boy Meets Boy (Paperback)",romance
+"Forever Too Far (Rosemary Beach, #3; Too Far, #3)",romance
+"The Villa (Paperback)",romance
+"A Night to Surrender (Spindle Cove, #1)",romance
+"Saving Grace (Paperback)",romance
+"A Room with a View (Paperback)",romance
+"Reckless (Thoughtless, #3)",romance
+"The Goal (Off-Campus, #4)",romance
+"The Book of Life (All Souls Trilogy, #3)",romance
+"Unveiled (Turner, #1)",romance
+"Hex Hall (Hex Hall, #1)",romance
+"How to Marry a Marquis (Agents of the Crown, #2)",romance
+"Kiss of the Night (Dark-Hunter, #4)",romance
+"The Scorpio Races (Hardcover)",romance
+"Love Irresistibly (FBI/US Attorney, #4)",romance
+"Uglies (Uglies, #1)",romance
+"Wildest Dreams (Fantasyland, #1)",romance
+"Mine to Possess (Psy-Changeling #4)",romance
+"Bridget Jones: The Edge of Reason (Bridget Jones, #2)",romance
+"Chasing Fire (Hardcover)",romance
+"What Happened to Goodbye (Hardcover)",romance
+"Something Wonderful (Sequels, #2)",romance
+"The Secret History of the Pink Carnation (Pink Carnation, #1)",romance
+"Wait for It (Kindle Edition)",romance
+"Something Blue (Darcy & Rachel, #2)",romance
+"Seize the Night (Dark-Hunter, #6)",romance
+"The Silver Linings Playbook (Paperback)",romance
+"Black Hills (Hardcover)",romance
+"The Seven Husbands of Evelyn Hugo (Hardcover)",romance
+"One with You (Crossfire, #5)",romance
+"Half-Blood (Covenant, #1)",romance
+"The Problem with Forever (Hardcover)",romance
+"A Quick Bite (Argeneau #1)",romance
+"The Year We Fell Down (The Ivy Years, #1)",romance
+"Collide (Collide, #1)",romance
+"Sins & Needles (The Artists Trilogy, #1)",romance
+"Twenties Girl (Hardcover)",romance
+"The Suffragette Scandal (Brothers Sinister, #4)",romance
+"Kushiel's Dart (Phèdre's Trilogy, #1)",romance
+"Rock Chick Rescue (Rock Chick, #2)",romance
+"Hero (Hero, #1)",romance
+"Hostage to Pleasure (Psy-Changeling, #5)",romance
+"Because of Low (Sea Breeze, #2)",romance
+"Breathe (Colorado Mountain, #4)",romance
+"Lady Luck (Colorado Mountain, #3)",romance
+"Beautiful Darkness (Caster Chronicles, #2)",romance
+"Faking It (Dempseys, #2)",romance
+"Holding the Dream (Dream Trilogy, #2)",romance
+"Twisted Palace (The Royals, #3)",romance
+"Exclusively Yours (Kowalski Family, #1)",romance
+"Slightly Dangerous (Bedwyn Saga, #6)",romance
+"Bloodlines (Bloodlines, #1)",romance
+"Illuminae (The Illuminae Files, #1)",romance
+"Egomaniac (Paperback)",romance
+"Daughter of the Forest  (Sevenwaters, #1)",romance
+"Dark Needs at Night's Edge (Immortals After Dark, #5)",romance
+"Worth Any Price (Bow Street Runners, #3)",romance
+"The Hooker and the Hermit (Rugby, #1)",romance
+"The Ugly Duchess (Fairy Tales, #4)",romance
+"Call Me Irresistible (Wynette, Texas, #5)",romance
+"Ravished (Mass Market Paperback)",romance
+"Alex, Approximately (Hardcover)",romance
+"Branded by Fire (Psy-Changeling, #6)",romance
+"The King (Black Dagger Brotherhood, #12)",romance
+"Lady Sophia's Lover (Bow Street Runners, #2)",romance
+"Almost Heaven (Sequels, #3)",romance
+"My Favorite Mistake (My Favorite Mistake, #1)",romance
+"Lothaire (Immortals After Dark, #12)",romance
+"After (After, #1)",romance
+"Love & Gelato (Hardcover)",romance
+"Someone Like You (Paperback)",romance
+"One for the Money (Stephanie Plum, #1)",romance
+"Lord of the Fading Lands (Tairen Soul, #1)",romance
+"The Golden Lily (Bloodlines, #2)",romance
+"Dirty (Dive Bar, #1)",romance
+"Finding the Dream (Dream Trilogy, #3)",romance
+"What I Did for Love (Wynette, Texas, #4)",romance
+"Arabella (Paperback)",romance
+"Leo (Kindle Edition)",romance
+"Rainshadow Road (Friday Harbor, #2)",romance
+"Mr. Cavendish, I Presume (Two Dukes of Wyndham, #2)",romance
+"The Sweet Gum Tree (Paperback)",romance
+"Dragon Actually (Dragon Kin, #1)",romance
+"Feral Sins (The Phoenix Pack, #1)",romance
+"Head Over Heels (Lucky Harbor, #3)",romance
+"Magic Bleeds (Kate Daniels, #4)",romance
+"A Great and Terrible Beauty (Gemma Doyle #1)",romance
+"Vicious (Sinners of Saint, #1)",romance
+"Saphirblau (Edelstein-Trilogie, #2)",romance
+"Captive in the Dark (The Dark Duet, #1)",romance
+"Guilty Pleasures (Anita Blake, Vampire Hunter, #1)",romance
+"Magic Study (Study, #2)",romance
+"Pucked (Pucked, #1)",romance
+"The Obsession (Hardcover)",romance
+"Starcrossed (Starcrossed, #1)",romance
+"The Sweetest Thing (Lucky Harbor, #2)",romance
+"World After (Penryn & the End of Days, #2)",romance
+"Just One Year (Just One Day, #2)",romance
+"Gentle Rogue (Malory-Anderson Family, #3)",romance
+"Flowers from the Storm (Mass Market Paperback)",romance
+"Twice Tempted (Night Prince, #2)",romance
+"The Sisterhood of the Traveling Pants (Sisterhood, #1)",romance
+"To Catch an Heiress (Agents of the Crown, #1)",romance
+"White Hot (Hidden Legacy, #2)",romance
+"The Unidentified Redhead (Redhead, #1)",romance
+"Idol (VIP, #1)",romance
+"Succubus Blues (Georgina Kincaid, #1)",romance
+"RoomHate (Paperback)",romance
+"Act Like It (London Celebrities, #1)",romance
+"Pestilence (The Four Horsemen, #1)",romance
+"Rapture (Fallen, #4)",romance
+"Perfect (Second Opportunities, #2)",romance
+"High Noon (Hardcover)",romance
+"The Fiery Heart (Bloodlines, #4)",romance
+"On the Fence (Paperback)",romance
+"The Darkest Pleasure (Lords of the Underworld #3)",romance
+"Betrayed (House of Night, #2)",romance
+"The Evolution of Mara Dyer (Mara Dyer, #2)",romance
+"The Dream Thieves (The Raven Cycle, #2)",romance
+"Archangel's Consort (Guild Hunter, #3)",romance
+"While It Lasts (Sea Breeze, #3)",romance
+"Born of Night (The League: Nemesis Rising #1)",romance
+"Shadow Spell (The Cousins O'Dwyer Trilogy, #2)",romance
+"Desperate Duchesses (Desperate Duchesses, #1)",romance
+"The Goddess Test (Goddess Test, #1)",romance
+"The Siren (Paperback)",romance
+"Tower of Dawn (Throne of Glass, #6)",romance
+"See Jane Score (Chinooks Hockey Team, #2)",romance
+"Devil's Cub (Alastair-Audley, #2)",romance
+"Hello Stranger (The Ravenels, #4)",romance
+"Dead Reckoning (Sookie Stackhouse, #11)",romance
+"The Darkest Minds (The Darkest Minds, #1)",romance
+"The Iron Queen (The Iron Fey, #3)",romance
+"Too Good To Be True (Paperback)",romance
+"The Look of Love (San Francisco Sullivans, #1; The Sullivans, #1)",romance
+"An Extraordinary Union (The Loyal League #1)",romance
+"The Geography of You and Me (Hardcover)",romance
+"This Side of the Grave (Night Huntress, #5)",romance
+"Iron Kissed (Mercy Thompson, #3)",romance
+"The Secrets of Sir Richard Kenworthy (Smythe-Smith Quartet, #4)",romance
+"Forever My Girl (Beaumont #1)",romance
+"Love Only Once (Malory-Anderson Family, #1)",romance
+"Warprize  (Chronicles of the Warlands, #1)",romance
+"Wintersong (Wintersong, #1)",romance
+"Rock Chick Redemption (Rock Chick, #3)",romance
+"Addicted to You (Addicted, #1)",romance
+"Blackmoore (Paperback)",romance
+"Paranormalcy (Paranormalcy, #1)",romance
+"Stargirl (Stargirl, #1)",romance
+"A Scot in the Dark (Scandal & Scoundrel, #2)",romance
+"Fixed on You (Fixed, #1)",romance
+"Blameless (Parasol Protectorate, #3)",romance
+"Tribute (Hardcover)",romance
+"Big Rock (Big Rock, #1)",romance
+"The Prince (The Selection, #0.5)",romance
+"Immortal in Death (In Death, #3)",romance
+"Unleash the Night (Dark Hunter, #8; Were-Hunter, #2)",romance
+"My Favorite Half-Night Stand (Paperback)",romance
+"The Friend Zone (Game On, #2)",romance
+"Crazy For You (Paperback)",romance
+"Punk 57 (Kindle Edition)",romance
+"Three Fates (Mass Market Paperback)",romance
+"Dark Desires After Dusk (Immortals After Dark, #6)",romance
+"Blue-Eyed Devil (Travises, #2)",romance
+"Lady Chatterley's Lover (Hardcover)",romance
+"Suzanne's Diary for Nicholas (Mass Market Paperback)",romance
+"The Unexpected Everything (Hardcover)",romance
+"The Marriage Trap (Marriage to a Billionaire, #2)",romance
+"Of Poseidon (The Syrena Legacy, #1)",romance
+"Lady Isabella's Scandalous Marriage (MacKenzies & McBrides, #2)",romance
+"Crash into You (Pushing the Limits, #3)",romance
+"Through the Ever Night (Under the Never Sky, #2)",romance
+"Sundays at Tiffany's (Hardcover)",romance
+"Rock Me (Ross Siblings, #2)",romance
+"Eliza and Her Monsters (Hardcover)",romance
+"Dating You / Hating You (Paperback)",romance
+"Animal Magnetism (Animal Magnetism, #1)",romance
+"Kiss of a Demon King (Immortals After Dark, #7)",romance
+"How to Marry a Millionaire Vampire (Love at Stake, #1)",romance
+"Beard Science (Winston Brothers, #3)",romance
+"A Beautiful Wedding (Beautiful, #2.5)",romance
+"How to Flirt with a Naked Werewolf (Naked Werewolf, #1)",romance
+"Birthright (Mass Market Paperback)",romance
+"Smaragdgrün (Edelstein-Trilogie, #3)",romance
+"The Redemption of Callie & Kayden (The Coincidence, #2)",romance
+"Rock Hard (Sinners on Tour, #2)",romance
+"The Darkest Hour (KGI, #1)",romance
+"The Will (Magdalene, #1)",romance
+"Twisted (Tangled, #2)",romance
+"Beauty and the Mustache (Knitting in the City, #4; Winston Brothers, #0.5)",romance
+"Dancing at Midnight (The Splendid Trilogy, #2)",romance
+"Wedding Night (Paperback)",romance
+"Fever (Breathless, #2)",romance
+"Simply Irresistible (Chinooks Hockey Team, #1)",romance
+"Blood Bound (Mercy Thompson, #2)",romance
+"Minx (The Splendid Trilogy, #3)",romance
+"One Dance with a Duke (Stud Club, #1)",romance
+"Sylvester (Paperback)",romance
+"Chocolat (Chocolat, #1)",romance
+"Just One Of The Guys (Mass Market Paperback)",romance
+"Foreplay (The Ivy Chronicles, #1)",romance
+"After the Night (Paperback)",romance
+"Manhunting (Hardcover)",romance
+"Red, White & Royal Blue (Paperback)",romance
+"The Cinderella Deal (Mass Market Paperback)",romance
+"The Last Letter from Your Lover (Hardcover)",romance
+"Dumplin' (Dumplin' #1)",romance
+"Everneath (Everneath, #1)",romance
+"Until You (Westmoreland, #3)",romance
+"Sustained (The Legal Briefs, #2)",romance
+"Beneath This Man (This Man, #2)",romance
+"Tiger's Curse (The Tiger Saga, #1)",romance
+"Hunting Ground (Alpha & Omega, #2)",romance
+"Seducing Cinderella (Fighting for Love, #1)",romance
+"Undead and Unwed (Undead, #1)",romance
+"Without Merit (Kindle Edition)",romance
+"Fallen Crest High (Fallen Crest High, #1)",romance
+"Unlocked (Turner, #1.5)",romance
+"Shades of Milk and Honey (Glamourist Histories, #1)",romance
+"Leah on the Offbeat (Creekwood, #2)",romance
+"The Bird and the Sword (The Bird and the Sword Chronicles, #1)",romance
+"Nuts (Hudson Valley, #1)",romance
+"Stay with Me (Wait for You, #3)",romance
+"Still Me (Paperback)",romance
+"More Than This (More Than, #1)",romance
+"Getting Rid of Bradley (Mass Market Paperback)",romance
+"Whiskey Beach (Hardcover)",romance
+"Sins of the Night (Dark-Hunter #7)",romance
+"Chosen (House of Night, #3)",romance
+"Eat, Pray, Love (Paperback)",romance
+"The Assassin's Blade (Throne of Glass, #0.1-0.5)",romance
+"Maid for Love (Gansett Island, #1)",romance
+"The Proposal (The Survivors' Club, #1)",romance
+"Heroes Are My Weakness (ebook)",romance
+"The Lady Most Likely... (Lady Most..., #1)",romance
+"Friends Without Benefits (Knitting in the City, #2)",romance
+"Price of a Kiss (Forbidden Men, #1)",romance
+"Rock Chick Revenge (Rock Chick, #5)",romance
+"Splintered (Splintered, #1)",romance
+"Six of Crows (Six of Crows, #1)",romance
+"Play of Passion (Psy-Changeling #9)",romance
+"Dark Side of the Moon (Dark-Hunter #9, Were-Hunter #3)",romance
+"Once Upon a Winter's Eve (Spindle Cove, #1.5)",romance
+"Seduction of a Highland Lass (McCabe Trilogy, #2)",romance
+"Demon from the Dark (Immortals After Dark, #10)",romance
+"Waking Up Married (Waking Up, #1)",romance
+"Unleashed (Ross Siblings, #1)",romance
+"Pleasure of a Dark Prince (Immortals After Dark, #9)",romance
+"Kiss of Steel (London Steampunk, #1)",romance
+"Hollywood Dirt (Hollywood Dirt, #1)",romance
+"The Magpie Lord (A Charm of Magpies, #1)",romance
+"Eternal Kiss of Darkness (Night Huntress World, #2)",romance
+"Wicked and the Wallflower (The Bareknuckle Bastards, #1)",romance
+"Master of Crows (Master of Crows, #1)",romance
+"The Convenient Marriage (Paperback)",romance
+"First Comes Marriage (Huxtable Quintet #1)",romance
+"The Girl with the Make-Believe Husband (Rokesbys, #2)",romance
+"Beautiful Redemption (The Maddox Brothers, #2)",romance
+"Trust in Me (Wait for You, #1.5)",romance
+"The Star-Touched Queen (The Star-Touched Queen, #1)",romance
+"Silver Borne (Mercy Thompson, #5)",romance
+"Bone Crossed (Mercy Thompson, #4)",romance
+"Royally Matched (Royally, #2)",romance
+"The Baller (Kindle Edition)",romance
+"White Hot Kiss (The Dark Elements, #1)",romance
+"Jet (Marked Men, #2)",romance
+"Blaze of Memory (Psy-Changeling #7)",romance
+"End of Days (Penryn & the End of Days, #3)",romance
+"Chasing Perfect (Fool's Gold, #1)",romance
+"Maybe This Time (Hardcover)",romance
+"Mile High (Up in the Air, #2)",romance
+"Never Love a Highlander (McCabe Trilogy, #3)",romance
+"Slightly Scandalous (Bedwyn Saga, #3)",romance
+"Blue Lily, Lily Blue (The Raven Cycle, #3)",romance
+"The Duke Is Mine (Fairy Tales, #3)",romance
+"Die for Me (Revenants, #1)",romance
+"All-American Girl (All-American Girl, #1)",romance
+"The Game Plan (Game On, #3)",romance
+"The Golden Dynasty (Fantasyland, #2)",romance
+"The Blue Castle (Paperback)",romance
+"Why We Broke Up (Hardcover)",romance
+"Shelter Mountain (Virgin River, #2)",romance
+"Hate to Want You (Forbidden Hearts, #1)",romance
+"Rock Chick Renegade (Rock Chick, #4)",romance
+"Hallowed (Unearthly, #2)",romance
+"Tell Me Three Things (Hardcover)",romance
+"One Tiny Lie (Ten Tiny Breaths, #2)",romance
+"The Gift (Crown's Spies, #3)",romance
+"Silk Is for Seduction (The Dressmakers, #1)",romance
+"Brighter Than the Sun (The Lyndon Sisters, #2)",romance
+"Driven (Driven, #1)",romance
+"Halo (Halo, #1)",romance
+"I Capture the Castle (Hardcover)",romance
+"Never Never: Part Two (Never Never, #2)",romance
+"Beautiful Bitch (Beautiful Bastard, #1.5)",romance
+"Seraphina (Seraphina, #1)",romance
+"The Rose Garden (Paperback)",romance
+"Rhapsodic (The Bargainer, #1)",romance
+"Until Friday Night (The Field Party, #1)",romance
+"The Dream Hunter (Dark-Hunter #10, Dream-Hunter #1)",romance
+"Vain (The Seven Deadly, #1)",romance
+"Just for Now (Sea Breeze, #4)",romance
+"Pride and Prejudice and Zombies (Pride and Prejudice and Zombies, #1)",romance
+"A Lot like Love (FBI/US Attorney, #2)",romance
+"Bonds of Justice (Psy-Changeling, #8)",romance
+"The Darkest Whisper (Lords of the Underworld #4)",romance
+"The Arrangement (The Survivors' Club, #2)",romance
+"Rock Chick Reckoning (Rock Chick, #6)",romance
+"Significance (Significance, #1)",romance
+"The Spymaster's Lady (Spymasters, #1)",romance
+"Devil May Cry (Dark-Hunter, #11)",romance
+"Second Chance Summer (Hardcover)",romance
+"Holding Up the Universe (Hardcover)",romance
+"The Many Sins of Lord Cameron (MacKenzies & McBrides, #3)",romance
+"Talk Me Down (Tumble Creek, #1)",romance
+"Forever . . . (Paperback)",romance
+"Castles (Crown's Spies #4)",romance
+"Grin and Beard It (Winston Brothers, #2)",romance
+"Going Too Far (Paperback)",romance
+"Everything Leads to You (Hardcover)",romance
+"Ruin (Ruin, #1)",romance
+"Friend-Zoned (Friend-Zoned, #1)",romance
+"Wicked Ties (Wicked Lovers, #1)",romance
+"Slightly Wicked (Bedwyn Saga, #2)",romance
+"Firelight (Firelight, #1)",romance
+"Once and for All (Hardcover)",romance
+"Rock Addiction (Rock Kiss, #1)",romance
+"The Marriage Mistake (Marriage to a Billionaire, #3)",romance
+"Blood Magick (The Cousins O'Dwyer Trilogy, #3)",romance
+"Maybe Not (Maybe, #1.5)",romance
+"Transcendence (Transcendence, #1)",romance
+"The Goose Girl (The Books of Bayern, #1)",romance
+"Far From the Madding Crowd (Paperback)",romance
+"Kingdom of Ash (Throne of Glass, #7)",romance
+"Heart of Obsidian  (Psy-Changeling, #12)",romance
+"Existence (Existence Trilogy, #1)",romance
+"Magic Slays (Kate Daniels, #5)",romance
+"Nightshade (Nightshade, #1; Nightshade World, #4)",romance
+"Cut & Run (Cut & Run, #1)",romance
+"Beautiful Secret (Beautiful Bastard, #4)",romance
+"The Raven King (The Raven Cycle, #4)",romance
+"Untamed (House of Night, #4)",romance
+"Rebel of the Sands (Rebel of the Sands #1)",romance
+"The Flame and the Flower (Birmingham, #1)",romance
+"At Peace (The 'Burg, #2)",romance
+"A Duke by Default (Reluctant Royals, #2)",romance
+"Rome (Marked Men, #3)",romance
+"The Edge of Always (The Edge of Never, #2)",romance
+"Second Sight (Arcane Society, #1)",romance
+"Wildfire (Hidden Legacy, #3)",romance
+"Alex (Cold Fury Hockey, #1)",romance
+"The Rosie Effect (Don Tillman, #2)",romance
+"Charade (Games, #1)",romance
+"Overruled (The Legal Briefs, #1)",romance
+"Rock Hard (Rock Kiss, #2)",romance
+"The Unhoneymooners (Paperback)",romance
+"Tess of the D'Urbervilles (Paperback)",romance
+"For You (The 'Burg, #1)",romance
+"Stars of Fortune (The Guardians Trilogy, #1)",romance
+"Gabriel's Redemption (Gabriel's Inferno, #3)",romance
+"Silver Shadows (Bloodlines, #5)",romance
+"Lucky in Love (Lucky Harbor, #4)",romance
+"Rock Chick Regret (Rock Chick, #7)",romance
+"Unclaimed (Turner, #2)",romance
+"Demonglass (Hex Hall, #2)",romance
+"The Vincent Brothers (The Vincent Boys, #2)",romance
+"Jessica's Guide to Dating on the Dark Side (Jessica, #1)",romance
+"Rapture in Death (In Death, #4)",romance
+"Trade Me (Cyclone, #1)",romance
+"Breakable (Contours of the Heart, #2)",romance
+"Blue Moon (The Immortals, #2)",romance
+"Much Ado About You (Essex Sisters, #1)",romance
+"Scandalous Desires (Maiden Lane, #3)",romance
+"Tender Rebel (Malory Family, #2)",romance
+"Glass Sword (Red Queen, #2)",romance
+"Axel (Corps Security, #1)",romance
+"The Perfect Game (The Perfect Game, #1)",romance
+"Notorious Pleasures (Maiden Lane #2)",romance
+"The Winter King (Weathermages of Mystral, #1)",romance
+"Dreams of a Dark Warrior (Immortals After Dark, #11)",romance
+"Possession (Paperback)",romance
+"Grounded (Up in the Air, #3)",romance
+"Princess in Love (The Princess Diaries, #3)",romance
+"Snow Like Ashes (Snow Like Ashes, #1)",romance
+"Lady Be Good (Wynette, Texas, #2)",romance
+"One Grave at a Time (Night Huntress, #6)",romance
+"Married By Morning (The Hathaways, #4)",romance
+"Evernight (Evernight, #1)",romance
+"Love and Other Words (Hardcover)",romance
+"Desire Unchained (Demonica #2)",romance
+"Everything and the Moon (The Lyndon Sisters, #1)",romance
+"Keeping the Moon (Paperback)",romance
+"Lolita (Paperback)",romance
+"The Iron Knight (The Iron Fey, #4)",romance
+"Some Girls Bite (Chicagoland Vampires, #1)",romance
+"Tangle of Need (Psy-Changeling, #11)",romance
+"Wings (Wings, #1)",romance
+"Because You're Mine (Capital Theatre, #2)",romance
+"Love Hacked (Knitting in the City, #3)",romance
+"Simple Perfection (Rosemary Beach, #6; Perfection, #2)",romance
+"Dream Lake (Friday Harbor, #3)",romance
+"Loving Mr. Daniels",romance
+"King (King, #1)",romance
+"Attraction (Elements of Chemistry, #1; Hypothesis, #1.1)",romance
+"Rebel Belle (Rebel Belle, #1)",romance
+"The Day of the Duchess (Scandal & Scoundrel, #3)",romance
+"The Awakening (The Vampire Diaries, #1)",romance
+"Where Dreams Begin (Mass Market Paperback)",romance
+"Thief of Shadows (Maiden Lane, #4)",romance
+"Second Grave on the Left (Charley Davidson, #2)",romance
+"River Marked (Mercy Thompson, #6)",romance
+"You Slay Me (Aisling Grey #1)",romance
+"Fight with Me (With Me in Seattle, #2)",romance
+"Much Ado About Nothing (Paperback)",romance
+"Tall, Tatted and Tempting (The Reed Brothers, #1)",romance
+"Undeniable (Undeniable, #1)",romance
+"The Magic of You (Malory-Anderson Family, #4)",romance
+"Fall from India Place (On Dublin Street, #4)",romance
+"Switched (Trylle #1)",romance
+"Heartbreaker (Buchanan-Renard, #1)",romance
+"My Not So Perfect Life (Paperback)",romance
+"Until Fountain Bridge (On Dublin Street, #1.5)",romance
+"Stranger in My Arms (Mass Market Paperback)",romance
+"Tatiana and Alexander (The Bronze Horseman, #2)",romance
+"All I Ever Wanted (ebook)",romance
+"The MacGregor Brides (MacGregors, #6)",romance
+"Flame in the Mist (Flame in the Mist, #1)",romance
+"The Sea of Tranquility (Kindle Edition)",romance
+"Poison Princess (The Arcana Chronicles, #1)",romance
+"Touch of Power (Healer, #1)",romance
+"Dear Aaron (Kindle Edition)",romance
+"Wallbanger (Cocktail, #1)",romance
+"The Perfect Match (Blue Heron, #2)",romance
+"The Unwanted Wife (Unwanted, #1)",romance
+"The Bookshop on the Corner (ebook)",romance
+"The Young Elites (The Young Elites, #1)",romance
+"Mine (Real, #2)",romance
+"Sanctuary (Mass Market Paperback)",romance
+"Stolen Songbird (The Malediction Trilogy, #1)",romance
+"Fire Inside (Chaos, #2)",romance
+"Catch of the Day (Gideon's Cove, #1)",romance
+"Entwined (Hardcover)",romance
+"Emergency Contact (Hardcover)",romance
+"Take a Chance (Rosemary Beach, #7; Chance, #1)",romance
+"Sempre (Sempre, #1)",romance
+"The Darkest Passion (Lords of the Underworld #5)",romance
+"Manwhore (Manwhore, #1)",romance
+"The Girl You Left Behind (Paperback)",romance
+"Madame Bovary (Paperback)",romance
+"Love Unrehearsed (Love, #2)",romance
+"The Wolf and the Dove (Paperback)",romance
+"For the Roses (Rose, #1)",romance
+"Emmy & Oliver (Kindle Edition)",romance
+"Suddenly One Summer (FBI/US Attorney, #6)",romance
+"Beauty and the Blacksmith  (Spindle Cove, #3.5)",romance
+"Bayou Moon (The Edge, #2)",romance
+"Fire Study (Study, #3)",romance
+"Magic Burns (Kate Daniels, #2)",romance
+"Say You Love Me (Malory Family, #5)",romance
+"Echoes of Scotland Street (On Dublin Street, #5)",romance
+"The Retribution of Mara Dyer (Mara Dyer, #3)",romance
+"Tiger Lily (ebook)",romance
+"For Darkness Shows the Stars (For Darkness Shows the Stars, #1)",romance
+"The Age of Innocence (Paperback)",romance
+"Wrong (Wrong, #1)",romance
+"Hunted (House of Night, #5)",romance
+"First Star I See Tonight (Chicago Stars, #8)",romance
+"Taking Chances (Taking Chances, #1)",romance
+"Jagged (Colorado Mountain, #5)",romance
+"Faro's Daughter (Paperback)",romance
+"Goddess of the Hunt (The Wanton Dairymaid Trilogy, #1)",romance
+"Duchess By Night (Desperate Duchesses, #3)",romance
+"This Man Confessed (This Man, #3)",romance
+"Night of Cake & Puppets (Daughter of Smoke & Bone, #2.5)",romance
+"Bitterblue (Graceling Realm, #3)",romance
+"A Kiss of Shadows (Merry Gentry, #1)",romance
+"Autoboyography (Hardcover)",romance
+"Sweet Home (Sweet Home, #1)",romance
+"Creed (Unfinished Hero, #2)",romance
+"Forever and a Day (Lucky Harbor, #6)",romance
+"Club Shadowlands (Masters of the Shadowlands, #1)",romance
+"Flat-Out Sexy (Fast Track, #1)",romance
+"Mackenzie's Mountain (Mackenzie Family, #1)",romance
+"MacRieve (Immortals After Dark, #14)",romance
+"The Law of Moses (The Law of Moses, #1)",romance
+"Dirty Rowdy Thing (Wild Seasons, #2)",romance
+"Between the Lines (Between the Lines, #1)",romance
+"Major Pettigrew's Last Stand (Hardcover)",romance
+"The Reef (Mass Market Paperback)",romance
+"Sex, Lies, and Online Dating (Writer Friends, #1)",romance
+"The Bet (The Bet, #1)",romance
+"Good in Bed (Cannie Shapiro, #1)",romance
+"Archangel's Storm (Guild Hunter, #5)",romance
+"Burn (Breathless, #3)",romance
+"The Peach Keeper (Hardcover)",romance
+"Changing the Game (Play by Play, #2)",romance
+"Epic Fail (Paperback)",romance
+"Prince Charming (Mass Market Paperback)",romance
+"Kiss of Crimson (Midnight Breed, #2)",romance
+"Words in Deep Blue (Hardcover)",romance
+"To Beguile a Beast (Legend of the Four Soldiers, #3)",romance
+"River's End (Mass Market Paperback)",romance
+"The Unsung Hero (Troubleshooters, #1)",romance
+"A Little Something Different (ebook)",romance
+"Father Mine (Black Dagger Brotherhood, #6.5)",romance
+"Carnal Innocence (Paperback)",romance
+"Rival (Fall Away, #2)",romance
+"Dark Triumph (His Fair Assassin, #2)",romance
+"Never Never: Part Three (Never Never, #3)",romance
+"Not Quite a Husband (The Marsdens, #2)",romance
+"Hate Notes (Kindle Edition)",romance
+"The Shadows (Black Dagger Brotherhood, #13)",romance
+"Raid (Unfinished Hero, #3)",romance
+"Deadlocked (Sookie Stackhouse, #12)",romance
+"Reasonable Doubt: Volume 1 (Reasonable Doubt, #1)",romance
+"Unraveled (Turner, #3)",romance
+"Ash (Hardcover)",romance
+"The Scarlet Pimpernel (Kindle Edition)",romance
+"The Liar (Hardcover)",romance
+"The Pact (Paperback)",romance
+"My Heart and Other Black Holes (Kindle Edition)",romance
+"A Rake's Vow (Cynster, #2)",romance
+"Shadow's Claim (Immortals After Dark, #13; The Dacians, #1)",romance
+"The Moon and More (Hardcover)",romance
+"Sincerely, Carter (Sincerely Carter, #1)",romance
+"Wake (Wake, #1)",romance
+"First Lady (Wynette, Texas, #3)",romance
+"Boy Meets Girl (Boy, #2)",romance
+"Magic Rises (Kate Daniels, #6)",romance
+"Finding Audrey (Hardcover)",romance
+"All In (The Blackstone Affair, #2)",romance
+"The Short Second Life of Bree Tanner (Twilight, #3.5)",romance
+"Instant Attraction (Wilder, #1)",romance
+"Until You (Fall Away, #1.5)",romance
+"The Devil Wears Prada (The Devil Wears Prada, #1)",romance
+"Ceremony in Death (In Death, #5)",romance
+"Whispering Rock (Virgin River, #3)",romance
+"Screwdrivered (Cocktail, #3)",romance
+"The Ruby Circle (Bloodlines, #6)",romance
+"Juliet (Hardcover)",romance
+"Sweet Surrender (Sweet, #1)",romance
+"Dark Desire (Dark, #2)",romance
+"Love Bites (Argeneau #2)",romance
+"Honest Illusions (Trade Paperback)",romance
+"Animal Attraction (Animal Magnetism, #2)",romance
+"The Body Finder (The Body Finder, #1)",romance
+"Dreamland (Paperback)",romance
+"Pure (Covenant, #2)",romance
+"Dead Ever After (Sookie Stackhouse, #13)",romance
+"Remember When (Foster Saga, #1)",romance
+"Born at Midnight (Shadow Falls, #1)",romance
+"Wicked (A Wicked Trilogy, #1)",romance
+"Alienated (Alienated, #1)",romance
+"At Last (Lucky Harbor, #5)",romance
+"Wife by Wednesday (The Weekday Brides, #1)",romance
+"To Kill a Kingdom (Hardcover)",romance
+"Beautiful Chaos (Caster Chronicles, #3)",romance
+"A Different Blue",romance
+"Nice Girls Don't Have Fangs (Jane Jameson, #1)",romance
+"Play with Me (With Me in Seattle, #3)",romance
+"The Great Escape (Wynette, Texas, #6)",romance
+"Princess of the Midnight Ball (The Princesses of Westfalin Trilogy, #1)",romance
+"You Don't Have to Say You Love Me (Paperback)",romance
+"Any Man of Mine (Chinooks Hockey Team, #6)",romance
+"Return to Paradise (Leaving Paradise, #2)",romance
+"Princess in the Spotlight (The Princess Diaries, #2)",romance
+"Then Comes Seduction (Huxtable Quintet, #2)",romance
+"The Leopard Prince (Princes Trilogy, #2)",romance
+"Charlie All Night (Mass Market Paperback)",romance
+"Bad Romeo (Starcrossed, #1)",romance
+"Stars Above (The Lunar Chronicles, #0.5, 0.6, 1.5, 3.1, 4.5)",romance
+"Fall with Me (Wait for You, #4)",romance
+"A Bollywood Affair (Bollywood, #1)",romance
+"Six of Hearts (Hearts, #1)",romance
+"My One and Only (Paperback)",romance
+"See Me (Hardcover)",romance
+"The Paid Companion (Mass Market Paperback)",romance
+"The Mane Event (Pride, #1)",romance
+"Slightly Tempted (Bedwyn Saga, #4)",romance
+"The Heart of Betrayal (The Remnant Chronicles, #2)",romance
+"Queen of Babble (Queen of Babble, #1)",romance
+"Heartless (Parasol Protectorate, #4)",romance
+"A Loving Scoundrel (Malory-Anderson Family, #7)",romance
+"At Any Price (Gaming the System, #1)",romance
+"The Proposal (The Proposition, #2)",romance
+"Birthday Girl (ebook)",romance
+"An Enchantment of Ravens (Hardcover)",romance
+"Rhythm, Chord & Malykhin (Kindle Edition)",romance
+"Nash (Marked Men, #4)",romance
+"Devoured (Devoured, #1)",romance
+"Fancy Pants (Wynette, Texas, #1)",romance
+"Managed (VIP, #2)",romance
+"Hot Head (Head #1)",romance
+"Nothing But Trouble (Chinooks Hockey Team, #5)",romance
+"Two-Way Street (Paperback)",romance
+"Finnikin of the Rock (Lumatere Chronicles, #1)",romance
+"Mistress (Mass Market Paperback)",romance
+"Waiting on You (Blue Heron, #3)",romance
+"Shield of Winter (Psy-Changeling, #13)",romance
+"Wicked Nights (Angels of the Dark, #1, Lords of the Underworld #9.25)",romance
+"Guardian Angel (Crown's Spies, #2)",romance
+"Open Season (Mass Market Paperback)",romance
+"A Torch Against the Night (An Ember in the Ashes, #2)",romance
+"The Bourbon Kings (The Bourbon Kings, #1)",romance
+"Claim Me (Stark Trilogy, #2)",romance
+"Dream Chaser (Dark-Hunter #13, Dream-Hunter #3)",romance
+"Slightly Sinful (Bedwyn Saga, #5)",romance
+"Truce (Neighbor from Hell, #4)",romance
+"A Summer to Remember (Bedwyn Prequels, #2)",romance
+"An Affair Before Christmas (Desperate Duchesses, #2)",romance
+"Prisoner of My Desire (Paperback)",romance
+"It Ain't Me, Babe (Hades Hangmen, #1)",romance
+"Taking a Shot (Play by Play, #3)",romance
+"Abandon (Abandon, #1)",romance
+"The Darkest Lie (Lords of the Underworld #6)",romance
+"Kaleidoscope (Colorado Mountain, #6)",romance
+"Rock Chick Revolution (Rock Chick, #8)",romance
+"Midnight in Austenland (Austenland, #2)",romance
+"The Duke's Perfect Wife (MacKenzies & McBrides, #4)",romance
+"13 Little Blue Envelopes (Little Blue Envelope, #1)",romance
+"The Sugar Queen (Kindle Edition)",romance
+"Black Sheep (Paperback)",romance
+"Passenger (Passenger, #1)",romance
+"Shopaholic Takes Manhattan (Shopaholic, #2)",romance
+"Extreme Exposure (I-Team, #1)",romance
+"Unspoken (The Lynburn Legacy, #1)",romance
+"The Nonesuch (Paperback)",romance
+"Annie on My Mind (Paperback)",romance
+"Mr. Impossible (Carsington Brothers, #2)",romance
+"Thirteen Reasons Why (Hardcover)",romance
+"A Virgin River Christmas (Virgin River, #4)",romance
