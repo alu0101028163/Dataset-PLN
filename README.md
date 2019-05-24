@@ -1,4 +1,6 @@
- # Clasificador de libros basado mediante lenguaje natural
+# Clasificador de libros basado mediante lenguaje natural
+
+Este proyecto ha sido realizado por _Adrián Álvarez_ para la asignatura de _Inteligencia Artificial Avanzada_ impartida por la _Universidad de La Laguna_ durante el curso 2018/2019.
 
 ```
  ├── lib                    # Directorio que contiene los módulos ejecutables del programa.
