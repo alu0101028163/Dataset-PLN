@@ -1,7 +1,8 @@
 import sys
 import os
 
-
+# Este modulo crea un fichero arff compatible con weka añadiendole una cabecera
+# que le permita ser leido.
 
 path = "../current_outputs"
 arff_file = open("./goodreads_nlp.arff","w+")
